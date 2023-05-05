@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK28xx_Pro", "TK28xx_Pro\TK28xx_Pro.csproj", "{15BBC666-BAFC-40B3-AE8A-39AE6B8134EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkPro", "NetWorkPro\NetWorkPro.csproj", "{3444F889-8ED2-4FD0-8737-D6DB2C3B748F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BBC666-BAFC-40B3-AE8A-39AE6B8134EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BBC666-BAFC-40B3-AE8A-39AE6B8134EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BBC666-BAFC-40B3-AE8A-39AE6B8134EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BBC666-BAFC-40B3-AE8A-39AE6B8134EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3444F889-8ED2-4FD0-8737-D6DB2C3B748F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3444F889-8ED2-4FD0-8737-D6DB2C3B748F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3444F889-8ED2-4FD0-8737-D6DB2C3B748F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3444F889-8ED2-4FD0-8737-D6DB2C3B748F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCBB3D1-D7B2-492B-9E8A-EB630EE4FEEB}
+	EndGlobalSection
+EndGlobal
